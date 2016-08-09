@@ -1,6 +1,6 @@
 {
     "name"        : "dhtmlx",
-    "version"     : "0.0.1",
+    "version"     : "0.1.1",
     "homepage"    : "http://dhtmlx.com",
     "main"        : "dhtmlx/dhtmlxgrid.js",
     "ignore"      : ["bower.json"],
